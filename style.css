@@ -1,0 +1,20 @@
+.header{
+    width:100%;
+    font-family: fantasy;
+    letter-spacing:1.5px;
+    
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: BLACK;
+    color: white;
+    text-align: center;
+    height: 25px;
+  }
+body{
+ text-align: center;
+    font-family: cursive;
+}
